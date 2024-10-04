@@ -71,6 +71,7 @@
 
 .container__titulo{
     font-weight: 400;
+    display: block;
 }
 
 .container__titulo--negrito{
